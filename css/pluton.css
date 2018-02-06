@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'porta';
-  src: url('../fonts/pluton.eot?49924914');
-  src: url('../fonts/pluton.eot?49924914#iefix') format('embedded-opentype'),
-       url('../fonts/pluton.woff?49924914') format('woff'),
-       url('../fonts/pluton.ttf?49924914') format('truetype'),
-       url('../fonts/pluton.svg?49924914#porta') format('svg');
+  src: url('http://www.vigiatec.com.br/fonts/pluton.eot?49924914');
+  src: url('http://www.vigiatec.com.br/fonts/pluton.eot?49924914#iefix') format('embedded-opentype'),
+       url('http://www.vigiatec.com.br/fonts/pluton.woff?49924914') format('woff'),
+       url('http://www.vigiatec.com.br/fonts/pluton.ttf?49924914') format('truetype'),
+       url('http://www.vigiatec.com.br/fonts/pluton.svg?49924914#porta') format('svg');
   font-weight: normal;
   font-style: normal;
 }
